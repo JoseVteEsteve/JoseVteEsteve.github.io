@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Un nuevo comienzo (I)
+date: 2020-08-07 00:00:00 Z
+categories:
+- Home
+layout: post
 author: john
-categories: [Home]
 ---
 
 ### Mis anteriores foros y blogs
