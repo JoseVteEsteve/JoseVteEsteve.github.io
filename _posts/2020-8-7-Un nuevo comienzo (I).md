@@ -3,7 +3,7 @@ layout: post
 title: Un nuevo comienzo (I)
 ---
 
-# Mis anteriores foros y blogs
+### Mis anteriores foros y blogs
 
 <p>Este no es el primer blog que escribo (y tampoco será el ultimo, espero) pero como los autores de novelas, hasta que no llega la inspiración... pues nada. Pero llegó. </p>
 
