@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Un nuevo comienzo (I)
 ---
 
 #Mis anteriores foros y blogs
