@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Un nuevo comienzo (I)
+author: john
+categories: [Home]
 ---
 
 ### Mis anteriores foros y blogs
