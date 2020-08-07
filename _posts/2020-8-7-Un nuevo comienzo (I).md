@@ -18,6 +18,6 @@ Cuando empecé con esto de la docencia (sabia decisión), creé un blog usando W
 Ahora empieza una nueva andadura, una nueva aventura online donde poder escibir acerca de aquello que me gusta y considero que pueda ser de aclaración a ciertos contenidos que se puedan aportar en clase. 
 
 Os incito a leer la segunda parte de este post, donde explicaré los contenidos de este blog y cómo se ha creado. 
-<br> Un saludo
+<br><br> Un saludo
 <br> Jose
 
