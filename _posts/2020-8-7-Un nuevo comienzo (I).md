@@ -16,9 +16,9 @@ En el año 2009 me compré mi primer Android, un Samsung Galaxy Spica de color b
 
 Más adelante, empecé a trastear con los teléfonos Android chinos. Al principio probé los clones de Samsung, una basura, sin procesador ni prácticamente memoria, aunque era resultones. En 2014 me compré mi primer Xiaomi. En aquellos años, no era muy conocida en España la verdad. La gente me preguntaba... ¿que marca es? Yo decía Xiaomi y la respuesta era Xiao que? Mucho ha cambiado de aquello, aquella Xiaomi no tiene nada que ver con la que ahora es, una marca mundialmente reconocida y de cierto prestigio. Yo seguía compartiendo mis conocimientos online en blogs y foros. Por un tiempo, no muy largo, y debido al trabajo, dejé de lado lo de escribir en modo online.
 
-Cuando empecé con esto de la docencia (sabia decisión), creé un blog usando Wordpress, que aún está online pero que hace bastante que no actualizo y que se llama [Docencia 3.0](http://www.josevesteve.wordpress.com). En él subía posts de ejercicios, explicaciones para mis alumnos, ... etcetera. Ahí podreis encontrar posts sobre Física, Matemáticas, Química e Informática. Si os apete
+Cuando empecé con esto de la docencia (sabia decisión), creé un blog usando Wordpress, que aún está online pero que hace bastante que no actualizo y que se llama [Docencia 3.0](http://www.josevesteve.wordpress.com). En él subía posts de ejercicios, explicaciones para mis alumnos, ... etcétera. Ahí podéis encontrar posts sobre Física, Matemáticas, Química e Informática. Si os apete
 
-Ahora empieza una nueva andadura, una nueva aventura online donde poder escibir acerca de aquello que me gusta y considero que pueda ser de aclaración a ciertos contenidos que se puedan aportar en clase.
+Ahora empieza una nueva andadura, una nueva aventura online donde poder escribir acerca de aquello que me gusta y considero que pueda ser de aclaración a ciertos contenidos que se puedan aportar en clase.
 
 Os incito a leer la segunda parte de este post, donde explicaré los contenidos de este blog y cómo se ha creado.
 <br><br> Un saludo
